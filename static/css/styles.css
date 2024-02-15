@@ -135,6 +135,14 @@ label {
   color: var(--red);
 }
 
+.error-message {
+  color: red;
+}
+
+.success-message {
+  color: green;
+}
+
 .error--hidden {
   display: none;
 }
